@@ -1,0 +1,35 @@
+buscar informarmacion por ruta especificada
+
+etc/apparmor.d/abstractions/perl
+etc/rc6.d
+etc/rcS.d
+etc/acpi
+etc/apm
+etc/apm/apparmor
+etc/init.d/apparmor
+etc/apt/avahi
+
+buscar por nombre y tamaño
+(imprime todos los archivos que pesen más del tamaño dado en la carpeta)
+
+nombre: ld.so.conf.d
+tamaño: 38
+
+nombre: libnl-3
+tamaño: 1 k
+
+nombre: events
+tamaño: 67
+
+buscar por direccion y usuario
+
+ruta: etc/alternatives
+usuario: root
+
+ruta: etc/apparmor.d/abstractions/apparmor_api
+usuario: root
+
+ruta: etc/apparmor.d/abstractions/ubuntu-browsers.d
+usuario: root
+
+
