@@ -2,9 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group>
             <file>file:/C:/Users/luis03/Documents/GitHub/practicaDatos/src/practicadatosi/ColeccionArchivos.java</file>
             <file>file:/C:/Users/luis03/Documents/GitHub/practicaDatos/src/practicadatosi/ClasePrincipal.java</file>
         </group>
+=======
+        <group/>
+>>>>>>> 48a02a97aa78a67d7ac0c8ec1245a0ff25e3bd26
     </open-files>
 </project-private>
