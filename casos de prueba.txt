@@ -1,4 +1,4 @@
-buscar informarmacion por ruta especificada
+1buscar informarmacion por ruta especificada
 
 etc/apparmor.d/abstractions/perl
 etc/rc6.d

@@ -27,7 +27,7 @@ public class ClasePrincipal {
             System.out.println("MENÚ PRINCIPAL\n"
                     + "1. Buscar con el nombre de la carpeta o archivo\n"
                     + "2. Buscar con la ruta\n"
-                    + "3. salir");
+                    + "3. Salir");
             opcion = leer.readLine();
             switch (opcion) {
                 case "1":

@@ -22,7 +22,7 @@ public class ColeccionArchivos {
     }
 
     /**
-     * metodo que perime ingresar un "dato" a la tabla de hash
+     * metodo que permite ingresar un "dato" a la tabla de hash
      *
      * @param clave, la clave es el nombre que asociamos a la carpeta o al
      * archivo, cuando busque la calve se obtiene rápidamente ese valor.
